@@ -23,7 +23,7 @@ email: paevgamers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sitio web de el juego matemático PAEV. Disponible en todos los dispositivos Android
   y próximamente en la web
-url: "http://www.paevgamers.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://paevgamers.com" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 plugins:
